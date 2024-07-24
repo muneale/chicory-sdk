@@ -31,11 +31,11 @@
       <artifactId>wasi</artifactId>
       <version>0.0.12</version>
     </dependency>
-    <dependency>
+    <!-- <dependency>
       <groupId>com.dylibso.chicory</groupId>
       <artifactId>aot</artifactId>
       <version>0.0.12</version>
-    </dependency>
+    </dependency> -->
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
